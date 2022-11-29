@@ -1,0 +1,9 @@
+ext {
+    company = 'delta'
+    cfgs = [
+            compileSdkVersion: JavaVersion.VERSION_1_8
+    ]
+    spring = [
+            version: '5.2.3'
+    ]
+}

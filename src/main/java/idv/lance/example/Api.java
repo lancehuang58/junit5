@@ -1,7 +1,7 @@
 package idv.lance.example;
 
 public class Api {
-
+//
   public boolean validate() {
     return true;
   }
